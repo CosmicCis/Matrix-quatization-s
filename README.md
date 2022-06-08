@@ -1,1 +1,3 @@
-# Matrix-quatization-s
+# Matrix quatization's
+
+матричная квантизация нервной системы космического пространства
